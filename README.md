@@ -44,7 +44,12 @@ sudo apt install ./homeassistant-supervised.deb
 	[info] Restarting docker service
  
 	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
-
+ 
+	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
+ 
+	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
+  
+	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
 #
 Відкрити новий термінал і в ньому:
 #
