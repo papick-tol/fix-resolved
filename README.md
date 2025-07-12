@@ -29,7 +29,7 @@ sudo apt install ./homeassistant-supervised.deb
 
 Відкрити новий термінал і в ньому:
 ??? якщо нема fix-resolved.sh
-створити:
+# створити:
  nano fix-resolved.sh
 #============================
 #!/bin/bash
