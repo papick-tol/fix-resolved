@@ -94,6 +94,8 @@ y
 #
 ентер
 
+# виконати fix-resolved.sh
+
 sudo chmod +x fix-resolved.sh
 #
 sudo ./fix-resolved.sh
