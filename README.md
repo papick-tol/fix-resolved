@@ -36,6 +36,7 @@ sudo apt install ./homeassistant-supervised.deb
 
 #
 Відкрити новий термінал і в ньому:
+#
 ??? якщо нема fix-resolved.sh
 # створити:
  nano fix-resolved.sh
@@ -68,6 +69,7 @@ sudo systemctl restart systemd-resolved
 sudo systemctl restart hassio-supervisor
 
 echo "✅ Готово! Перевір: resolvectl status і /etc/resolv.conf"
+#
 #=====================================================================
 #
 F2
