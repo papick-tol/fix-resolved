@@ -23,11 +23,15 @@ https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 
 #=====================================================================
 #
-apt-get update
-# Ставимо SSH після цього можна вже під'єднатися по мережі Putty
+sudo apt-get update
+# Ставимо SSH після цього можна вже під'єднатися по мережі Putty:
+
+дізнатися ІР адресу можна командою
+
+ip a
 
 sudo apt install openssh-server mc
-#
+# 
 sudo apt-get install apparmor jq wget curl udisks2 libglib2.0-bin network-manager dbus lsb-release systemd-journal-remote -y
 #
 curl -fsSL get.docker.com | sh
