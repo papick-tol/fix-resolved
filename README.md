@@ -1,4 +1,12 @@
 Встановлення Home Assistant Supervised
+![clipboard_image_996bc57497e4d8536442a330d2bec0b8](https://github.com/user-attachments/assets/e82ed72e-88af-4ec6-b689-0cc79a35f6b3)
+![clipboard_image_8329ae04268fbacf2968e429b6d33e74](https://github.com/user-attachments/assets/aa48e0d7-d025-464a-9039-aa6658d71629)
+![clipboard_image_9291ad488a7856b9fc21bb1d32d93439](https://github.com/user-attachments/assets/1f11c5d2-8ea7-44dd-9afa-e45a03ef9e1d)
+![clipboard_image_9f5c1f8c2ea79b1155ba7b10ae79768d](https://github.com/user-attachments/assets/fac46827-1839-4659-b342-c1437911c491)
+![clipboard_image_2c94d405f884ef7aff734b1646467db5](https://github.com/user-attachments/assets/03a9151c-44c0-42c6-a3c8-2c7e9d4d7384)
+![clipboard_image_11dfae3a98379f0dc16d1c27d18e9b52](https://github.com/user-attachments/assets/767e4613-f13b-4019-b08d-fb371753d5f0)
+<img width="1281" height="801" alt="clipboard_image_4c226ba7612232a1489615dd4bd16bf3" src="https://github.com/user-attachments/assets/2322d5c2-65c2-42f6-9b61-f9c2d0dd2718" />
+![clipboard_image_de14c307fe93659e9071db0a7918e90c](https://github.com/user-attachments/assets/f4938412-43e8-4ae0-a3bb-5ff98e77d8fd)
 
 Лінукс ставити краше з лайфСД з вже запущеного дебіан.
 
