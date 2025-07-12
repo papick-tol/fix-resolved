@@ -32,7 +32,7 @@ sudo apt install ./homeassistant-supervised.deb
 # створити:
  nano fix-resolved.sh
 #
-#============================
+
 #!/bin/bash
 
 echo "🔧 Відновлення systemd-resolved та resolv.conf..."
