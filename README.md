@@ -32,7 +32,7 @@ sudo apt install openssh-server mc
 
 ip a
 
-
+# Тепер можна під'єднатися Putty і дали копи-паст: 
 # 
 sudo apt-get install apparmor jq wget curl udisks2 libglib2.0-bin network-manager dbus lsb-release systemd-journal-remote -y
 #
