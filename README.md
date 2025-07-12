@@ -1,4 +1,12 @@
+
 Встановлення Home Assistant Supervised
+
+Лінукс ставити краше з лайфСД з вже запущеного дебіан.
+
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
+
+https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
+
 ![clipboard_image_996bc57497e4d8536442a330d2bec0b8](https://github.com/user-attachments/assets/e82ed72e-88af-4ec6-b689-0cc79a35f6b3)
 ![clipboard_image_8329ae04268fbacf2968e429b6d33e74](https://github.com/user-attachments/assets/aa48e0d7-d025-464a-9039-aa6658d71629)
 ![clipboard_image_9291ad488a7856b9fc21bb1d32d93439](https://github.com/user-attachments/assets/1f11c5d2-8ea7-44dd-9afa-e45a03ef9e1d)
@@ -16,7 +24,8 @@ https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 #=====================================================================
 #
 apt-get update
-#
+# Ставимо SSH після цього можна вже під'єднатися по мережі Putty
+
 sudo apt install openssh-server mc
 #
 sudo apt-get install apparmor jq wget curl udisks2 libglib2.0-bin network-manager dbus lsb-release systemd-journal-remote -y
