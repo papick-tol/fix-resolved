@@ -26,5 +26,4 @@ sudo systemctl restart hassio-supervisor
 
 echo "✅ Готово! Перевір: resolvectl status і /etc/resolv.conf"
 
-sudo chmod +x fix-resolved.sh
 
