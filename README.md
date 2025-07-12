@@ -4,6 +4,7 @@ https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-1
 https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 
 #==================================================================================================
+#
 apt-get update
 #
 sudo apt install openssh-server mc
