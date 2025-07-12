@@ -54,6 +54,7 @@ sudo apt install ./homeassistant-supervised.deb
 	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
 #
 Коли застряне на: 
+
 [info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
 
 Відкрити новий термінал і в ньому:
