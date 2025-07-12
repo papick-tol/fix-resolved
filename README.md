@@ -31,6 +31,7 @@ sudo apt install ./homeassistant-supervised.deb
 ??? якщо нема fix-resolved.sh
 # створити:
  nano fix-resolved.sh
+ <cr>
 #============================
 #!/bin/bash
 
