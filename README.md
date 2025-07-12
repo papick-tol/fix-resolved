@@ -5,15 +5,23 @@ https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 
 #==================================================================================================
 apt-get update
+#
 sudo apt install openssh-server mc
+#
 sudo apt-get install apparmor jq wget curl udisks2 libglib2.0-bin network-manager dbus lsb-release systemd-journal-remote -y
+#
 curl -fsSL get.docker.com | sh
- sudo docker run hello-world
-
+#
+sudo docker run hello-world
+#
 wget https://raw.githubusercontent.com/papick-tol/fix-resolved/refs/heads/main/fix-resolved.sh
+#
 wget https://github.com/home-assistant/os-agent/releases/download/1.7.2/os-agent_1.7.2_linux_x86_64.deb
+#
 sudo dpkg -i os-agent_1.7.2_linux_x86_64.deb
+#
 wget https://github.com/home-assistant/supervised-installer/releases/latest/download/homeassistant-supervised.deb
+#
 sudo apt install ./homeassistant-supervised.deb
 	Setting up homeassistant-supervised (3.1.0) ...
 	[info] Reload systemd
@@ -26,7 +34,7 @@ sudo apt install ./homeassistant-supervised.deb
 	[info] Restarting docker service
 	[info] Waiting for https://checkonline.home-assistant.io/online.txt - network interface might be down...
 
-
+#
 Відкрити новий термінал і в ньому:
 ??? якщо нема fix-resolved.sh
 # створити:
