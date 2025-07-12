@@ -118,7 +118,7 @@ sudo systemctl restart hassio-supervisor
 echo "✅ Готово! Перевір: resolvectl status і /etc/resolv.conf"
 #
 #=====================================================================
-#
+# далі натиснути:
 F2
 #
 y 
