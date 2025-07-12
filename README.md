@@ -69,4 +69,6 @@ y
 ентер
 
 sudo chmod +x fix-resolved.sh
+#
 sudo ./fix-resolved.sh
+#
