@@ -3,7 +3,7 @@
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
 https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 
-#==================================================================================================
+#=====================================================================
 #
 apt-get update
 #
