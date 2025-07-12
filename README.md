@@ -1,4 +1,5 @@
 Встановлення Home Assistant Supervised
+
 Лінукс ставити краше з лайфСД з вже запущеного дебіан.
 
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
