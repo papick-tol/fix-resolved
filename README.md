@@ -5,6 +5,8 @@
 
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
 
+Розгортати на флешку цим:
+
 https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe
 
 ![clipboard_image_996bc57497e4d8536442a330d2bec0b8](https://github.com/user-attachments/assets/e82ed72e-88af-4ec6-b689-0cc79a35f6b3)
